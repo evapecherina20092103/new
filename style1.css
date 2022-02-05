@@ -1,0 +1,28 @@
+nav a{
+    text-decoration: none;
+    font-size: 20px;
+    border: 1px solid red;
+    border-radius: 8px;
+    padding: 3px;
+    background-color: LemonChiffon;
+    color: red;
+    margin: 5px;
+    }
+nav{
+    text-align: center;
+    }
+body{
+    background-color:LightCyan ;
+    }
+    main p{
+    font-size: 25px;
+    border: 2px solid blue;
+    border-radius: 10px;
+    padding: 5px;
+}
+h3{
+    font-size: 28px;
+}
+img{
+    text-align: center;
+}
